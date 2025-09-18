@@ -1,9 +1,8 @@
 # DSA in C
 
 ## To Compile The Program For your System
-```sh
-cd src
-```
+
+### Make sure **make** is installed on your system.
 
 ```sh
 make FileName
